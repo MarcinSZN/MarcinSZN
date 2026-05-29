@@ -1,4 +1,4 @@
-## Hi there 👋
+## Resume Extension
 
 NetDevOps portfolio and script repository, created as a technical extension to my resume for employers and hiring managers
 
