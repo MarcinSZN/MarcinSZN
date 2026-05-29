@@ -2,7 +2,7 @@
 
 This GitHub account was created to present my NetDevOps scripts to the employers/HRs as an extension to my resume.
 
-(https://github.com/MarcinSZN/cisco-vpn-data-collection)
+https://github.com/MarcinSZN/cisco-vpn-data-collection
 <!--
 **MarcinSZN/MarcinSZN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
