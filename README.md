@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This GitHub account was created to present my NetDevOps scripts to the employers/HRs as an extension to my resume.
+NetDevOps portfolio and script repository, created as a technical extension to my resume for employers and hiring managers
 
 https://github.com/MarcinSZN/cisco-vpn-data-collection
 <!--
