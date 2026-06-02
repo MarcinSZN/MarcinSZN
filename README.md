@@ -3,6 +3,8 @@
 NetDevOps portfolio and script repository, created as a technical extension to my resume for employers and hiring managers
 
 https://github.com/MarcinSZN/cisco-vpn-data-collection
+
+https://github.com/MarcinSZN/cisco-vpn-cfg-generator
 <!--
 **MarcinSZN/MarcinSZN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
