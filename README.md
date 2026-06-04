@@ -1,10 +1,11 @@
 ## Resume Extension
 
-NetDevOps portfolio and script repository, created as a technical extension to my resume for employers and hiring managers
+NetDevOps portfolio and technical extension to my resume. This repository demonstrates the practical application of Python and Infrastructure-as-Code (IaC) tools to automate network engineering tasks and configuration workflows.
 
 https://github.com/MarcinSZN/cisco-vpn-data-collection
-
 https://github.com/MarcinSZN/cisco-vpn-cfg-generator
+
+
 <!--
 **MarcinSZN/MarcinSZN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
