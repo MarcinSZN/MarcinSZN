@@ -3,6 +3,7 @@
 NetDevOps portfolio and technical extension to my resume. This repository demonstrates the practical application of Python and Infrastructure-as-Code (IaC) tools to automate network engineering tasks and configuration workflows.
 
 https://github.com/MarcinSZN/cisco-vpn-data-collection
+
 https://github.com/MarcinSZN/cisco-vpn-cfg-generator
 
 
